@@ -1,0 +1,7 @@
+D:\CSharpSpace\Git\CSProgrammingHub\csharpHub\csharpHub\bin\Debug\csharpHub.exe.config
+D:\CSharpSpace\Git\CSProgrammingHub\csharpHub\csharpHub\bin\Debug\csharpHub.exe
+D:\CSharpSpace\Git\CSProgrammingHub\csharpHub\csharpHub\bin\Debug\csharpHub.pdb
+D:\CSharpSpace\Git\CSProgrammingHub\csharpHub\csharpHub\obj\Debug\csharpHub.csproj.AssemblyReference.cache
+D:\CSharpSpace\Git\CSProgrammingHub\csharpHub\csharpHub\obj\Debug\csharpHub.csproj.CoreCompileInputs.cache
+D:\CSharpSpace\Git\CSProgrammingHub\csharpHub\csharpHub\obj\Debug\csharpHub.exe
+D:\CSharpSpace\Git\CSProgrammingHub\csharpHub\csharpHub\obj\Debug\csharpHub.pdb
