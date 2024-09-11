@@ -12,6 +12,9 @@ namespace csharpHub
         {
             Console.WriteLine("My first CSharp Program");
             Console.ReadKey();
+
+            ForLoopProgram obj = new ForLoopProgram();
+            obj.loopCheck();
         }
     }
 }
