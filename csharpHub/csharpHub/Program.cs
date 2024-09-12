@@ -11,10 +11,18 @@ namespace csharpHub
         static void Main(string[] args)
         {
             Console.WriteLine("My first CSharp Program");
+
+            //  ForLoopProgram obj = new ForLoopProgram();
+            // obj.loopCheck();
+            IfPrograms obj = new IfPrograms();
+            obj.ifCheck();
+            obj.ifElseCheck();
+
+
             Console.ReadKey();
 
-            ForLoopProgram obj = new ForLoopProgram();
-            obj.loopCheck();
+
+
         }
     }
 }
